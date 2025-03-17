@@ -28,7 +28,7 @@
 4. Run the application on your local server and access it through `http://localhost/notesly/`.
 
 #### Screenshots:
-Include a few images to show how your app looks.
+
 ![Screenshot (161)](https://github.com/user-attachments/assets/4542fe3c-23d5-4b3e-8587-5529d1d41205)
 
 ---
